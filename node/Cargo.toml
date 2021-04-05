@@ -1,12 +1,12 @@
 [package]
-authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
+authors = ['ds @tmdv <https://github.com/BEdasc/>']
 build = 'build.rs'
-description = 'A fresh FRAME-based Substrate node, ready for hacking.'
+description = 'A test node to implement contracts'
 edition = '2018'
-homepage = 'https://substrate.dev'
+homepage = 'https://techmedev.eu'
 license = 'Unlicense'
 name = 'node-template'
-repository = 'https://github.com/substrate-developer-hub/substrate-node-template/'
+repository = 'https://github.com/BEdasc/substrate_test_contracts'
 version = '3.0.0'
 
 [[bin]]
